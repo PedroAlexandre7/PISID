@@ -1,4 +1,4 @@
-Java | 2023
+2023
 
 
 Sistema que regista e permite a monotorização do estado de ratos num labirinto.
