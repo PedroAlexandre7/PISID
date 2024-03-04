@@ -1,0 +1,15 @@
+package StructClasses;
+
+public enum ValidationStatus {
+    OK,
+    NONEXISTENT_CORRIDOR,
+    NEGATIVE_RATS,
+    OVERCROWDED_ROOM,
+    ABSURD_TEMP,
+    INVALID_TEMP_SENSOR,
+    LOW_TEMP_WARNING,
+    LOW_TEMP_CRITICAL,
+    HIGH_TEMP_WARNING,
+    HIGH_TEMP_CRITICAL
+
+}
